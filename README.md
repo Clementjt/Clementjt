@@ -1,4 +1,4 @@
-👋 Hi my name  is Clement
+👋 Hi my name  is Clément
 
 🌱 I'm currently studying software engineering in Caen
 
